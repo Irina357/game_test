@@ -20,4 +20,4 @@ git init git add -A git commit -m 'deploy'
 git push -f git@github.com:YOUR_USER_NAME/REPOSITORY_NAME.git master:gh-pages
 
 cd -
-Код данного проекта вы можете увидеть на [GitHub](https://github.com/Irina357/game_test_all)
+Код данного проекта вы можете увидеть на [GitHub](https://github.com/Irina357/game_test_cod)
